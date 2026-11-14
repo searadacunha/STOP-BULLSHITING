@@ -388,7 +388,7 @@ The [measurements and their limits](docs/TOKEN_EFFICIENCY.md) cover fidelity fix
 
 ---
 
-## Development credits
+## Contributors and AI assistance
 
 **Benjamin Da Cunha:** project direction, requirements and final decisions.
 
