@@ -2,7 +2,7 @@
 
 # STOP-BULLSHITING
 
-<p align="center"><img src="assets/readme-hero.svg" width="100%" alt="STOP-BULLSHITING visual montage" /></p>
+<p align="center"><img src="assets/readme-hero-photo.jpg" width="100%" alt="STOP-BULLSHITING visual montage" /></p>
 
 **Smaller terminal output. Inspectable previews. Recoverable originals.**
 
